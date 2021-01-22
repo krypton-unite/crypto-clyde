@@ -1,0 +1,1 @@
+pip-compile requirements/requirements.in --output-file=requirements/requirements.txt
