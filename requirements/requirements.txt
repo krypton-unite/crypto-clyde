@@ -26,6 +26,8 @@ pycparser==2.20
     # via cffi
 pynacl==1.4.0
     # via discord.py
+python-dotenv==0.15.0
+    # via -r requirements/requirements.in
 six==1.15.0
     # via pynacl
 typing-extensions==3.7.4.3
